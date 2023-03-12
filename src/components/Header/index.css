@@ -1,0 +1,25 @@
+/* Write your CSS code here */
+.app-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 40px;
+}
+.list-container {
+  display: flex;
+  flex-direction: row;
+  text-decoration: none;
+}
+li {
+  list-style-type: none;
+  margin: 5px;
+  text-decoration: none;
+}
+.wave-container {
+  display: flex;
+  flex-direction: row;
+}
+.img {
+  height: 50px;
+  width: 50px;
+}
